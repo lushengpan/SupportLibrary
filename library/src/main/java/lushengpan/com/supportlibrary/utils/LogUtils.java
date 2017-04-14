@@ -37,7 +37,7 @@ import javax.xml.transform.stream.StreamSource;
  * Created by Gh0st on 2016/6/7 007.
  * https://github.com/ZhaoKaiQiang/KLog
  */
-public class JLog {
+public class LogUtils {
     private static String TAG = "TAG";
     private static boolean LOG_DEBUG = true;
     private static final String LINE_SEPARATOR = System.getProperty("line.separator");

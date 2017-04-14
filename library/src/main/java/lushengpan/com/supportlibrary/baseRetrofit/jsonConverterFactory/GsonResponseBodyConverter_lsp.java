@@ -16,13 +16,10 @@ import retrofit2.Converter;
 public class GsonResponseBodyConverter_lsp<T> implements Converter<ResponseBody, T> {
     private final Gson gson;
     private final TypeAdapter<T> adapter;
-
-
     GsonResponseBodyConverter_lsp(Gson gson, TypeAdapter<T> adapter) {
         this.gson = gson;
         this.adapter = adapter;
     }
-
     @Override
     public T convert(ResponseBody value) throws IOException {
         JsonReader jsonReader = gson.newJsonReader(value.charStream());
