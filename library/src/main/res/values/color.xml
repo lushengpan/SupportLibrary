@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="light_gray">#dddddd</color>
+    <color name="black">#000000</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="gray_d2d2d2">#d2d2d2</color>
+    <color name="gray_999999">#999999</color>
+    <color name="pink">#f87ba3</color>
+    <color name="dialogTxtColor">#0048fc</color>
+    <color name="dialogColor">#f0ffffff</color>
+    <color name="dialog_blue">#0095D9</color>
+    <color name="dialog_orange">#FF7B02</color>
+    <color name="dialog_gray">#e6e6e6</color>
+    <color name="red_ffe8eb">#ffe8eb</color>
+    <color name="red_ff4c72">#ff4c72</color>
+    <color name="red_ff8aa0">#ff8aa0</color>
+    <color name="red_ff9fb1">#ff9fb1</color>
+    <color name="red_7b1e2c">#7b1e2c</color>
+    <color name="red_ffdade">#ffdade</color>
+    <color name="red_ff3560">#ff3560</color>
+    <color name="red_ff315d">#ff315d</color>
+    <color name="red_e0a0af">#e0a0af</color>
+    <color name="red_ffbbca">#ffbbca</color>
+    <color name="red_ff3164">#ff3164</color>
+    <color name="red_4d5b5a">#4d5b5a</color>
+    <color name="red_ffd4da">#ffd4da</color>
+    <color name="pink_FF8AA0">#FF8AA0</color>
+    <color name="drivid_ffe8eb">#ffe8eb</color>
+    <color name="black_4d4d4d">#4d4d4d</color>
+    <color name="black_4f5b5a">#4F5B5A</color>
+    <color name="white_fef9f9">#fef9f9</color>
+    <color name="gray_a4767e">#a4767e</color>
+    <color name="gray_ebebeb">#ebebeb</color>
+    <color name="gray_9e6d76">#9e6d76</color>
+    <color name="gray_561e2c">#561e2c</color>
+    <color name="red">#ff99ae</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#46b9a3</color>
+    <color name="yellow">#f6f49c</color>
+    <color name="bg_color">#f4f1f5</color>
+    <color name="gray_f2f1f6">#f2f1f6</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <!-- 雪白色 -->
+    <color name="floralwhite">#FFFAF0</color>
+    <!-- 暗灰色 -->
+    <color name="dimgrey">#696969</color>
+    <color name="red_01222a">#ffd4da</color>
+    <color name="red_ff466e">#ff466e</color>
+    <color name="line">#ffeaed</color>
+    <color name="line_gray">#999999</color>
+    <color name="color1">#57d9d8</color>
+    <color name="color2">#f6c375</color>
+    <color name="color3">#a3da98</color>
+    <color name="color4">#7fa8e0</color>
+    <color name="red_9e6d76">#9e6d76</color>
+
+    <!-- 地址颜色 -->
+    <color name="text_address_pink">#fd325d</color>
+    <color name="text_address_light_pink1">#ff8c9e</color>
+    <color name="text_address_light_pink2">#ffd5da</color>
+    <color name="text_address_gray">#9d6f75</color>
+ <color name="spots_dialog_color">@android:color/holo_blue_dark</color>
+    <color name="indicator">#00BFFF</color>
+    <color name="titlebar">#05B9F1</color>
+    <color name="car_information">#CCCCCC</color>
+    <color name="hint_color">#CCCCCC</color>
+    <color name="shallow">#616161</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="checkbox_normal">#22000000</color>
+    <!-- 购买须知checked颜色 -->
+    <color name="button_gray">#898989</color>
+    
+    <color name="default_background">#EEEEEE</color>
+    
+    <color name="logout_normal">#DD0000</color>
+    <color name="logout_pressed">#B22222</color>
+    
+    <color name="light_grey">#909094</color>
+    
+    <color name="deep_blue">#067AFF</color>
+ 
+    <color name="light_blue">#6593cb</color>
+    <color name="light_green">#8ED765</color>
+    <color name="deep_red">#DD0000</color>
+    
+    <color name="light_light_gray">#EAEAEA</color>
+    
+    <color name="orange_button">#FFA500</color>
+    
+    <color name="title_button_pressed">#05A9E1</color>
+    <color name="normal_button">#88888888</color>
+    <!-- 附近门店 -->
+    <color name="nearby_button_normal">#D8D8D8</color>
+    <color name="nearby_button_checked">#00AEEF</color>
+    <color name="nearby_text_normal">#929292</color>
+    
+    <color name="text_change_car">#FF4F0D</color>
+    
+    <color name="orange_text">#F78A00</color>
+    
+    <!-- 按钮的字体颜色 -->
+    <color name="color_text_selected">#05B9F1</color>  
+    <color name="color_text_normal">#333333</color>
+    <!-- 个人中心 -->
+    <color name="color_text_pressed">#11333333</color>
+    
+    <!-- 价格的颜色 -->
+    <color name="color_preferential">#FF4F0D</color>
+    
+    <color name="light">#66EEEEEE</color>
+    <color name="light_head">#EEEEEE</color>
+    <!-- 个人中心 -->
+    <color name="text_gray">#88666666</color>
+    <color name="border">#33666666</color>
+    
+    <!-- 商城订单 radiobutton的字体颜色 -->
+	<color name="color_radio_normal">#929292</color>
+	<color name="color_radio_checked">#FFFFFF</color>
+	<color name="color_mallorder_button">#EF6F00</color>
+	<color name="color_mallorder_item_orange">#EF6F00</color>
+	<color name="color_deep_mallorder_item_orange">#E66B1A</color>
+	
+	<!-- 我的红包的金额颜色 -->
+	<color name="redpaper_money">#FB8211</color>
+	
+	<color name="ratingbar_color">#FEBE1A</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_ff">#F0F0F0</color>
+    <color name="color_00">#8A000000</color>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</resources>
