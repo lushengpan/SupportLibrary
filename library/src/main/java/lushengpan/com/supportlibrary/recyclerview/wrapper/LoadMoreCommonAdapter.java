@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import basedemo.lushengpan.com.baselibrary.recyclerview.MultiItemTypeAdapter;
-import basedemo.lushengpan.com.baselibrary.recyclerview.base.ItemViewDelegate;
-import basedemo.lushengpan.com.baselibrary.recyclerview.base.ViewHolder;
+import lushengpan.com.supportlibrary.recyclerview.MultiItemTypeAdapter;
+import lushengpan.com.supportlibrary.recyclerview.base.ItemViewDelegate;
+import lushengpan.com.supportlibrary.recyclerview.base.ViewHolder;
 
 
 /**
