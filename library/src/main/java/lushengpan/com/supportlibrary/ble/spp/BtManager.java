@@ -18,7 +18,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.com.heaton.blelibrary.BuildConfig;
+import lushengpan.com.supportlibrary.BuildConfig;
+
 
 /**
  * 蓝牙管理器

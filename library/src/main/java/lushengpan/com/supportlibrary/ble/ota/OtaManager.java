@@ -16,6 +16,7 @@ import java.io.IOException;
 import java.lang.ref.WeakReference;
 
 import lushengpan.com.supportlibrary.BuildConfig;
+import lushengpan.com.supportlibrary.R;
 import lushengpan.com.supportlibrary.ble.Ble;
 import lushengpan.com.supportlibrary.ble.BleDevice;
 

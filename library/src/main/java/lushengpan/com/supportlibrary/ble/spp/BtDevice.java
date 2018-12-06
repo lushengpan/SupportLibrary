@@ -10,7 +10,8 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.lang.reflect.InvocationTargetException;
 
-import cn.com.heaton.blelibrary.BuildConfig;
+
+import lushengpan.com.supportlibrary.BuildConfig;
 
 /**
  * 蓝牙设备对象
