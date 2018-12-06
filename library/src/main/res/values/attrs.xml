@@ -34,19 +34,18 @@
         <attr name="hasStickyHeaders" format="boolean" />
         <attr name="isDrawingListUnderStickyHeader" format="boolean" />
     </declare-styleable>
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="round_radius" format="dimension" />
     <declare-styleable name="ShoppingView">
         <attr name="sv_bg_color" format="color" />
         <attr name="sv_text" format="string" />
         <attr name="sv_text_size" format="dimension" />
         <attr name="sv_duration" format="integer" />
-        <attr name="border_width" format="dimension" />
         <attr name="border_color" format="color" />
         <attr name="round_radius" format="dimension" />
-
     </declare-styleable>
-    <attr name="border_width" format="dimension" />
-    <attr name="border_color" format="color" />
-    <attr name="round_radius" format="dimension" />
+
         <declare-styleable name="CheckableItemView">
             <attr name="check_id" format="reference"/>
         </declare-styleable>
